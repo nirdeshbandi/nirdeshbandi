@@ -11,9 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nirdeshbandi27@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirdeshbandi27@gmail.com" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nirdesh bandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nirdesh bandi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nirdeshbandi27@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nirdeshbandi27@gmail.com" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nirdeshbandi27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirdeshbandi27@gmail.com" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nirdeshbandi27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nirdeshbandi27@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
